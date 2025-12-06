@@ -1,0 +1,27 @@
+{
+  "name": "c9-transcription-extractor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "homepage": "https://github.com/GitanuGreeves/c9-transcription-extractor#readme",
+  "bugs": {
+    "url": "https://github.com/GitanuGreeves/c9-transcription-extractor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitanuGreeves/c9-transcription-extractor.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "c9CallDataTranscriptionV8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.2",
+    "moment": "^2.30.1",
+    "uuid": "^13.0.0"
+  }
+}
